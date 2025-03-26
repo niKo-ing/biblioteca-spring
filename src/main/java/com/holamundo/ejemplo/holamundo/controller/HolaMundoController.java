@@ -12,7 +12,7 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String holamundo() {
-        return "Hola mundo!";
+        return "Hola lars!!!!!!";
     }
     
 
